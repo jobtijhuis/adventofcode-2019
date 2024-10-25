@@ -1,0 +1,12 @@
+[submodule "libraries/osvvm_common"]
+	path = libraries/osvvm_common
+	url = https://github.com/OSVVM/OSVVM-Common.git
+[submodule "libraries/osvvm"]
+	path = libraries/osvvm
+	url = https://github.com/OSVVM/OSVVM.git
+[submodule "libraries/osvvm_dpram"]
+	path = libraries/osvvm_dpram
+	url = https://github.com/OSVVM/DpRam.git
+[submodule "libraries/open_logic"]
+	path = libraries/open_logic
+	url = https://github.com/open-logic/open-logic.git
